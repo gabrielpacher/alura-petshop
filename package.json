@@ -1,0 +1,24 @@
+{
+  "name": "noderest",
+  "version": "1.0.0",
+  "description": "aplicativo de atendimentos em petshop usando rest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "rest",
+    "app"
+  ],
+  "author": "gabriel pacher",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "consign": "^0.1.6",
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "mysql": "^2.17.1",
+    "nodemon": "^2.0.15"
+  }
+}
